@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\vehiclecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\ivehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|c:\\users\\azedunet\\source\\repos\\turbo.az\\turbo.az\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9764501-DEAF-4B41-A01A-18565B95119D}|Turbo.az\\Turbo.az.csproj|solutionrelative:turbo.az\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "VehicleController.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\VehicleController.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\VehicleController.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\VehicleController.cs*",
+              "RelativeToolTip": "Turbo.az\\VehicleController.cs*",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAwwFwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:24:16.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\Car.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\Car.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\Car.cs*",
+              "RelativeToolTip": "Turbo.az\\Car.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:23:51.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IVehicle.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\IVehicle.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\IVehicle.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\IVehicle.cs*",
+              "RelativeToolTip": "Turbo.az\\IVehicle.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:23:29.747Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\UserController.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\UserController.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\UserController.cs*",
+              "RelativeToolTip": "Turbo.az\\UserController.cs*",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAuwGsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:22:50.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\User.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\User.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\User.cs*",
+              "RelativeToolTip": "Turbo.az\\User.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:22:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\Program.cs",
+              "RelativeDocumentMoniker": "Turbo.az\\Program.cs",
+              "ToolTip": "C:\\Users\\AzEduNet\\source\\repos\\Turbo.az\\Turbo.az\\Program.cs*",
+              "RelativeToolTip": "Turbo.az\\Program.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAADwvzIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-18T06:13:22.053Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

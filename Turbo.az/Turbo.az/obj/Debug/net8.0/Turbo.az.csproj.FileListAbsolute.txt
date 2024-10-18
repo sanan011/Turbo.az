@@ -1,0 +1,15 @@
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\bin\Debug\net8.0\Turbo.az.exe
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\bin\Debug\net8.0\Turbo.az.deps.json
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\bin\Debug\net8.0\Turbo.az.runtimeconfig.json
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\bin\Debug\net8.0\Turbo.az.dll
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\bin\Debug\net8.0\Turbo.az.pdb
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.AssemblyInfoInputs.cache
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.AssemblyInfo.cs
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.csproj.CoreCompileInputs.cache
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.sourcelink.json
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.dll
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\refint\Turbo.az.dll
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.pdb
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\Turbo.az.genruntimeconfig.cache
+C:\Users\AzEduNet\source\repos\Turbo.az\Turbo.az\obj\Debug\net8.0\ref\Turbo.az.dll
